@@ -1,4 +1,6 @@
 matplotlib
+scipy
+numpy
 pandas
 pycurl
 sgp4
