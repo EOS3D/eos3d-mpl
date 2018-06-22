@@ -1455,7 +1455,7 @@ class Eos():
         self.ax.set_zlabel(r'$Z \ \mathrm{['+ self.unit +']}$')
         self.ax.view_init(el,az)
         self.fig.set_size_inches(x, y)
-        plt.tight_layout()
+        #plt.tight_layout()
         if save == True:
             plt.savefig('{}.{}'.format(name,extension))
         if show == True:
