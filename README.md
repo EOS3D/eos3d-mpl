@@ -1,7 +1,7 @@
 ![eos3d-mpl logo](img/EOS3D-MPL.svg)
 
 [![Travis](https://img.shields.io/travis/EOS3D/eos3d-mpl.svg)](https://travis-ci.org/EOS3D/eos3d-mpl)
-[![Release](https://img.shields.io/github/release/EOS3D/eos3d-mpl.svg)](https://github.com/EOS3D/eos3d-mpl/releases)
+[![Release](https://img.shields.io/github/release/EOS3D/eos3d-mpl/all.svg)](https://github.com/EOS3D/eos3d-mpl/releases)
 [![](https://img.shields.io/badge/python-3.4+-blue.svg)](https://www.python.org)
 [![](https://img.shields.io/github/license/EOS3D/eos3d-mpl.svg)](https://github.com/EOS3D/eos3d-mpl/blob/master/LICENSE)
 
