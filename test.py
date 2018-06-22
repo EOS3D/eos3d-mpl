@@ -8,7 +8,7 @@ data = eos.kepler(data=True,vis=None)
 # TLE parsing test
 eos.parseTLE()
 
-# pycurl + decode test
+# pycurl test
 c = eos_core.pycurl.Curl()
 c.setopt(c.URL, 'https://www.google.com')
 with eos_core.BytesIO() as e:
@@ -16,7 +16,6 @@ with eos_core.BytesIO() as e:
     c.setopt(eos_core.pycurl.SSL_VERIFYPEER, 0)
     c.perform()
     c.close()
-    e.getvalue().decode('UTF-8')
 
 # SGP4 propagation test
 
