@@ -17,5 +17,6 @@ For complete information on eos3d-mpl, please consult the attached ``docs/docume
 eos3d-mpl is build for Python 3, and requires the following packages:
 
 + ``matplotlib``
++ ``pandas``
 + ``pycurl`` (otional for getTLE)
 + ``python-sgp4`` (optional for SGP4 propagation)
