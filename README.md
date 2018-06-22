@@ -1,5 +1,5 @@
 # eos3d-mpl
-A simple matplotlib-based orbital mechanics visualization library\
+A simple matplotlib-based orbital mechanics visualization library
 
 Author: Hamza El-Kebir\
 Date: 2018-06-22\
